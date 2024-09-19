@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Econstart Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Econstart</h1>
+        <button id="change-language">Change to Spanish</button>
+    </header>
+    <section>
+        <p>Your credit repair and business consulting experts.</p>
+    </section>
+    <footer>
+        <p>Contact us at: info@econstart.com | Call: 347-849-3647</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
